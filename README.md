@@ -53,40 +53,40 @@ pip install scapy getmac mac-vendor-lookup
 
 
 
-#🧰 Alternativas opcionales
+## 🧰 Alternativas opcionales
 Si no deseas usar el escaneo de red desde esta herramienta, puedes usar software externo:
 
 #🔎 Advanced IP Scanner
 🔗 [https://www.advanced-ip-scanner.com/es/](https://www.advanced-ip-scanner.com/es/) 
 
-#🧱 Npcap (para sniffing en modo promíscuo)
+## 🧱 Npcap (para sniffing en modo promíscuo)
 Requerido si deseas capturar paquetes con herramientas como Wireshark.
 Sitio web: 
 🔗 [https://npcap.com/#download](https://npcap.com/#download) 
 
 
 
-#🚀 Ejecutar el proyecto Modo desarrollador
+## 🚀 Ejecutar el proyecto Modo desarrollador
 ```bash
 python gui.py
 ```
 
-#Modo ejecutable (.exe)
+##Modo ejecutable (.exe)
 Descarga el archivo ejecutables.rar con los ejecutables listos para Windows:
 Descomprime y haz doble clic en gui.exe para iniciar.
 🔗 [https://github.com/cuscocode/arp_spoofing/recursos/ejecutables.rar](https://github.com/cuscocode/arp_spoofing/recursos/ejecutables.rar) 
 
 
 
+---
 
-
-#🛑 Cómo detener el ataque
+## 🛑 Cómo detener el ataque
 Haz clic en "Detener Spoof" desde la interfaz. Cerrar la app también detiene todas las operaciones.
 
-📌 Notas adicionales
+## 📌 Notas adicionales
 Algunas funciones podrían requerir permisos de administrador.
 El spoofing solo redirige el tráfico; usa Wireshark para capturarlo.
 Desactiva temporalmente el firewall o antivirus si bloquea la ejecución del EXE.
 
-#🤝 Licencia
+## 🤝 Licencia
 MIT License - Puedes modificar y usar este proyecto libremente con fines educativos.
