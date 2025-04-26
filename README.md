@@ -66,6 +66,12 @@ Sitio web:
 
 
 
+
+
+
+---
+---
+
 ## 🚀 Ejecutar el proyecto Modo desarrollador
 ```bash
 python gui.py
