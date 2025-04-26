@@ -71,7 +71,7 @@ Sitio web:
 python gui.py
 ```
 
-##Modo ejecutable (.exe)
+## Modo ejecutable (.exe) para windows
 Descarga el archivo ejecutables.rar con los ejecutables listos para Windows:
 Descomprime y haz doble clic en gui.exe para iniciar.
 🔗 [https://github.com/cuscocode/arp_spoofing/recursos/ejecutables.rar](https://github.com/cuscocode/arp_spoofing/recursos/ejecutables.rar) 
